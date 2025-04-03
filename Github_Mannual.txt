@@ -25,3 +25,10 @@ add -> adds new or changed files in your working directory to the Git staging ar
         git add <file name>
 commit -> it is the record of change
         git commit -m "some message"
+
+# Push command
+push -> upload local repository content to remote repository
+        git push origin main
+
+# Exit from the current directory using command -> cd ..
+# Make new directory repository using command -> mkdir directory/filename
