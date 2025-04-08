@@ -49,3 +49,10 @@ To Initialise the git repository using command -> git init
         git checkout <branch name> (to navigate)
         git checkout -b <new branch name> (to create new branch)
         git branch -d <branch name> (to delete branch)
+
+# Merging Code
+Way1->
+        git diff <branch name> (to compare commits, branches ,files and more)
+        git merge <branch name> (to merge 2 branches)
+Way2->
+        Create a PR
