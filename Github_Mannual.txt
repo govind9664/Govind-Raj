@@ -56,3 +56,8 @@ Way1->
         git merge <branch name> (to merge 2 branches)
 Way2->
         Create a PR
+
+
+# Pull command
+        git pull origin main
+        (Used to fetch and download content from a remote repo and immediately update the local repo to match that content)
