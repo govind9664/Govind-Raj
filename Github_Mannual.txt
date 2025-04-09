@@ -61,3 +61,6 @@ Way2->
 # Pull command
         git pull origin main
         (Used to fetch and download content from a remote repo and immediately update the local repo to match that content)
+
+# Resolving Merge Conflicts
+-> An event that takes place when Git is unable to automatically resolve difference in code between two commits
