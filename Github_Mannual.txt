@@ -64,3 +64,13 @@ Way2->
 
 # Resolving Merge Conflicts
 -> An event that takes place when Git is unable to automatically resolve difference in code between two commits
+
+# Undoing Changes
+->Case 1:- staged Changes
+        git reset <file name>
+        git reset
+->Case 2:- Commit Changes (for one commit)
+        git reset HEAD~1
+->Case 3:- Commit Changes (for many commits)
+        git reset <commit hash>
+        git reset --hard <commit hash>
